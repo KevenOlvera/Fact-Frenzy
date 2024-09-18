@@ -3,22 +3,22 @@
 Developed for Intermediate Programming (CSE 1320)
 Team Members:
 
-Keven Olvera Contreraz (1001809730)
-Emma Slonaker (1002082749)
-Gurpreet Banwait (1002113712)
-Hilary Ha (1002142734)
+-Keven Olvera Contreraz (1001809730)
+-Emma Slonaker (1002082749)
+-Gurpreet Banwait (1002113712)
+-Hilary Ha (1002142734)
 Mentor: Marika Apostolova
 TA: Arjun Dahal
 
 Table of Contents
-*Introduction
-*Current Systems
-*Proposed Model
-*Program Design
-*Testing
-*Conclusion
-*References
-*Introduction
+*Introduction*
+*Current Systems*
+*Proposed Model*
+*Program Design*
+*Testing*
+*Conclusion*
+*References*
+*Introduction*
 
 Fact Frenzy is a multiplayer quiz game with four categories: History, Geography, Entertainment, and Food. Players can choose to play solo or compete with another player. The game features five difficulty levels ranging from very easy (100 points) to very hard (500 points). Each player takes turns answering questions, earning points for correct answers, and the game concludes after 10 rounds.
 
