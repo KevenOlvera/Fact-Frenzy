@@ -17,15 +17,15 @@ Mentor: Marika Apostolova
 TA: Arjun Dahal
 
 <section>
-  Table of Contents
+  <h2>Table of Contents</h2>
   <ul>
-    <li>*Introduction*</li>
-    <li>*Current Systems*</li>
-    <li>*Proposed Model*</li>
-    <li>*Program Design*</li>
-    <li>*Testing*</li>
-    <li>*Conclusion*</li>
-    <li>*References*</li>
+    <li>Introduction</li>
+    <li>Current Systems</li>
+    <li>Proposed Model</li>
+    <li>Program Design</li>
+    <li>Testing</li>
+    <li>Conclusion</li>
+    <li>References</li>
   </ul>
 </section>
 
