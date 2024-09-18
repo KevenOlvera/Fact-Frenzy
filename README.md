@@ -1,6 +1,13 @@
+<HTML lang="en">
+  <Body>
+    <Main>
+    <p>
 #FACT - FRENZY - Multiplayer Quiz Game
+    </p>
 
+    <p>
 Developed for Intermediate Programming (CSE 1320)
+    </p>
 Team Members:
 
 -Keven Olvera Contreraz (1001809730)
@@ -10,15 +17,18 @@ Team Members:
 Mentor: Marika Apostolova
 TA: Arjun Dahal
 
-Table of Contents
-*Introduction*
-*Current Systems*
-*Proposed Model*
-*Program Design*
-*Testing*
-*Conclusion*
-*References*
-*Introduction*
+<section>
+  Table of Contents
+  <ul>
+    <li>*Introduction*</li>
+    <li>*Current Systems*</li>
+    <li>*Proposed Model*</li>
+    <li>*Program Design*</li>
+    <li>*Testing*</li>
+    <li>*Conclusion*</li>
+    <li>*References*</li>
+  </ul>
+</section>
 
 Fact Frenzy is a multiplayer quiz game with four categories: History, Geography, Entertainment, and Food. Players can choose to play solo or compete with another player. The game features five difficulty levels ranging from very easy (100 points) to very hard (500 points). Each player takes turns answering questions, earning points for correct answers, and the game concludes after 10 rounds.
 
@@ -40,11 +50,14 @@ Two primary structures: Question and Player
 Questions are stored in arrays, one for each category
 Players earn points based on the difficulty of correctly answered questions
 Six functions control game logic: four category functions, one to display player points, and one to check for reused questions
+
 Key Modules:
-Menu Screen: Players choose categories and difficulty levels
-Question Logic: Players answer questions, and points are awarded for correct answers
-Player Struct: Stores player names and points
-Question Struct: Stores questions and whether they’ve been answered
+<ol>
+<li>Menu Screen: Players choose categories and difficulty levels</li>
+<li>Question Logic: Players answer questions, and points are awarded for correct answers</li>
+<li>Player Struct: Stores player names and points</li>
+<li>Question Struct: Stores questions and whether they’ve been answered</li>
+</ol>
 Testing
 The game was thoroughly tested with multiple cases, including alternating turns for multiplayer and ensuring questions were not reused. Here are some significant fixes during the testing phase:
 
@@ -57,21 +70,31 @@ Test Log:
 11/07/2023: Implemented check for previously answered questions
 11/10/2023: Resolved points being awarded for incorrect answers and input handling
 
-Conclusion
 
 Program Weaknesses:
-Limited to 10 rounds per game
-Only allows up to 2 players in a single game
-No graphical interface, leading to a text-heavy experience
+<ul>
+<li>Limited to 10 rounds per game</li>
+<li>Only allows up to 2 players in a single game</li>
+<li>No graphical interface, leading to a text-heavy experience</li>
+</ul>
+
 Program Strengths:
-Robust input validation and error checking
-Flexible loop structure allows replaying with different settings
+<ul>
+<li>Robust input validation and error checking</li>
+<li>Flexible loop structure allows replaying with different settings</li>
+</ul>
+
 Future Enhancements:
-Add a graphical user interface for better usability
-Implement a system to randomize questions for replayability
-Expand multiplayer capabilities beyond 2 players
-References
-State Cookie of Texas Trivia
-History Trivia Questions
-Geography Trivia
-Barbenheimer Box Office
+<ul>
+<li>Add a graphical user interface for better usability</li>
+<li>Implement a system to randomize questions for replayability</li>
+<li>Expand multiplayer capabilities beyond 2 players</li>
+<li>References</li>
+<li>State Cookie of Texas Trivia</li>
+<li>History Trivia Questions</li>
+<li>Geography Trivia</li>
+<li>Barbenheimer Box Office</li>
+</ul>
+    </Main>
+  </Body>
+</HTML>
