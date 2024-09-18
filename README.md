@@ -5,9 +5,8 @@
 #FACT - FRENZY - Multiplayer Quiz Game
     </p>
 
-    <p>
-Developed for Intermediate Programming (CSE 1320)
-    </p>
+#Developed for Intermediate Programming (CSE 1320)
+
 Team Members:
 
 -Keven Olvera Contreraz (1001809730)
