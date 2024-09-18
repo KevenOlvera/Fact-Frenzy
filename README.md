@@ -1,18 +1,18 @@
 <HTML lang="en">
   <Body>
     <Main>
-    <p>
-#FACT - FRENZY - Multiplayer Quiz Game
-    </p>
+<h1>FACT - FRENZY - Multiplayer Quiz Game</h1>
 
-#Developed for Intermediate Programming (CSE 1320)
+<h2>Developed for Intermediate Programming (CSE 1320)</h2>
 
 Team Members:
+<ul>
+<li>Keven Olvera Contreraz (1001809730)</li>
+<li>Emma Slonaker (1002082749)</li>
+<li>Gurpreet Banwait (1002113712)</li>
+<li>Hilary Ha (1002142734)</li>
+</ul>
 
--Keven Olvera Contreraz (1001809730)
--Emma Slonaker (1002082749)
--Gurpreet Banwait (1002113712)
--Hilary Ha (1002142734)
 Mentor: Marika Apostolova
 TA: Arjun Dahal
 
